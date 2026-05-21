@@ -103,7 +103,7 @@ The full policy and report: [`CafeDeFantastica-Information-Governance-Policy.pdf
 
 ## Author
 
-**Soriful Islam Shoaib** 
+**Soriful Islam Shoaib**   
 [GitHub](https://github.com/SHOBUsi) · [LinkedIn](https://www.linkedin.com/in/soriful-islam-shoaib/)
 
 ---
